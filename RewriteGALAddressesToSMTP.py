@@ -1,6 +1,6 @@
 # kopano-dagent RewriteGALAddressesToSMTP
 # (c) 2017 Hein-Pieter van Braam <hp@tmm.cx>
-# Licensed under the GPU Affero General Public License v3
+# Licensed under the GPU Affero GPL v3 (or at your option any later version)
 # See LICENSE file for details
 
 import MAPI
