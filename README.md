@@ -1,8 +1,8 @@
-# kopano-dagent RewriteAddresses
+# kopano-dagent RewriteGALAddressesToSMTP
 
 ## What is it
 
-This is a simple plugin for Kopano (and perhaps Zarafa) dagent that rewrites incoming addresses to the 'SMTP' type.
+This is a plugin for Kopano (and perhaps Zarafa) dagent that rewrites incoming addresses to the 'SMTP' type.
 
 By default dagent will look up the incoming address (To: and CC:) in the server's GAL and replace the recipients with a ZARAFA:<address> type.
 What this means is that the information about what alias was used to receive the message is lost when viewing the message in WebApp or via z-push.
