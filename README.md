@@ -11,7 +11,7 @@ This plugin will read all relevant headers and undo this step.
 
 ## Installation
 
-In a default kopano installation the Python plugin path is set to /var/lib/kopano/dagent/plugins. Simply place rewriteusers.py in this directory and restart dagent. No configuration is necessary or possible.
+In a default kopano installation the Python plugin path is set to /var/lib/kopano/dagent/plugins. Simply place RewriteGALAddressesToSMTP.py in this directory and restart dagent. No configuration is necessary or possible.
 
 ## Requirements
 
